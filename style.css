@@ -53,6 +53,17 @@ button:hover {
     background-color: #ff9f33;
 }
 
+.operator:hover {
+    background-color: #c9a30d;
+}
+
 #calculate {
+    grid-column: span 4;
+    border-radius: 20%;
+    /* width: 100%; */
     background-color: #0a7013;
+}
+
+#calculate:hover {
+    background-color: #0cda3c;
 }
